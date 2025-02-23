@@ -6,10 +6,6 @@ A Python-based tool which crops LethalPosters posters mod to make them compatibl
 - Crop multiple posters from a single image.
 - Save cropped posters to a user-defined folder.
 
-## Requirements
-- Python 3.x
-- Pillow (`pip install pillow`)
-
 ## How to Use
 1. Run the `PosterCrop.exe`.
 2. Select a poster to crop.
